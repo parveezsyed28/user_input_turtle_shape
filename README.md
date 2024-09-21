@@ -41,7 +41,7 @@ source install/setup.bash
 
 ### **Usage**
 
-    ##**Launch the turtlesim node:**
+##**Launch the turtlesim node:**
 
 ros2 run turtlesim turtlesim_node
 
