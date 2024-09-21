@@ -1,0 +1,35 @@
+running egg_info
+creating ../../build/square_turtle/square_turtle.egg-info
+writing ../../build/square_turtle/square_turtle.egg-info/PKG-INFO
+writing dependency_links to ../../build/square_turtle/square_turtle.egg-info/dependency_links.txt
+writing entry points to ../../build/square_turtle/square_turtle.egg-info/entry_points.txt
+writing requirements to ../../build/square_turtle/square_turtle.egg-info/requires.txt
+writing top-level names to ../../build/square_turtle/square_turtle.egg-info/top_level.txt
+writing manifest file '../../build/square_turtle/square_turtle.egg-info/SOURCES.txt'
+reading manifest file '../../build/square_turtle/square_turtle.egg-info/SOURCES.txt'
+writing manifest file '../../build/square_turtle/square_turtle.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/parveez/ros2_ws/build/square_turtle/build
+creating /home/parveez/ros2_ws/build/square_turtle/build/lib
+creating /home/parveez/ros2_ws/build/square_turtle/build/lib/square_turtle
+copying square_turtle/move_square.py -> /home/parveez/ros2_ws/build/square_turtle/build/lib/square_turtle
+copying square_turtle/__init__.py -> /home/parveez/ros2_ws/build/square_turtle/build/lib/square_turtle
+running install
+running install_lib
+creating /home/parveez/ros2_ws/install/square_turtle/lib/python3.10/site-packages/square_turtle
+copying /home/parveez/ros2_ws/build/square_turtle/build/lib/square_turtle/move_square.py -> /home/parveez/ros2_ws/install/square_turtle/lib/python3.10/site-packages/square_turtle
+copying /home/parveez/ros2_ws/build/square_turtle/build/lib/square_turtle/__init__.py -> /home/parveez/ros2_ws/install/square_turtle/lib/python3.10/site-packages/square_turtle
+byte-compiling /home/parveez/ros2_ws/install/square_turtle/lib/python3.10/site-packages/square_turtle/move_square.py to move_square.cpython-310.pyc
+byte-compiling /home/parveez/ros2_ws/install/square_turtle/lib/python3.10/site-packages/square_turtle/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/parveez/ros2_ws/install/square_turtle/share/ament_index
+creating /home/parveez/ros2_ws/install/square_turtle/share/ament_index/resource_index
+creating /home/parveez/ros2_ws/install/square_turtle/share/ament_index/resource_index/packages
+copying resource/square_turtle -> /home/parveez/ros2_ws/install/square_turtle/share/ament_index/resource_index/packages
+copying package.xml -> /home/parveez/ros2_ws/install/square_turtle/share/square_turtle
+running install_egg_info
+Copying ../../build/square_turtle/square_turtle.egg-info to /home/parveez/ros2_ws/install/square_turtle/lib/python3.10/site-packages/square_turtle-0.0.0-py3.10.egg-info
+running install_scripts
+Installing move_square script to /home/parveez/ros2_ws/install/square_turtle/lib/square_turtle
+writing list of installed files to '/home/parveez/ros2_ws/build/square_turtle/install.log'

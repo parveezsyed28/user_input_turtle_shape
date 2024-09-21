@@ -1,0 +1,3 @@
+[console_scripts]
+move_square = square_turtle.move_square:main
+

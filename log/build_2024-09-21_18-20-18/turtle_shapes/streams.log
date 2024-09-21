@@ -1,0 +1,24 @@
+[0.880s] Invoking command in '/home/parveez/ros2_ws/src/turtle_shapes': PYTHONPATH=/home/parveez/ros2_ws/build/turtle_shapes/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/parveez/ros2_ws/install/turtle_shapes/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/turtle_shapes build --build-base /home/parveez/ros2_ws/build/turtle_shapes/build install --record /home/parveez/ros2_ws/build/turtle_shapes/install.log --single-version-externally-managed install_data
+[1.128s] running egg_info
+[1.129s] writing ../../build/turtle_shapes/turtle_shapes.egg-info/PKG-INFO
+[1.129s] writing dependency_links to ../../build/turtle_shapes/turtle_shapes.egg-info/dependency_links.txt
+[1.129s] writing entry points to ../../build/turtle_shapes/turtle_shapes.egg-info/entry_points.txt
+[1.130s] writing requirements to ../../build/turtle_shapes/turtle_shapes.egg-info/requires.txt
+[1.130s] writing top-level names to ../../build/turtle_shapes/turtle_shapes.egg-info/top_level.txt
+[1.131s] reading manifest file '../../build/turtle_shapes/turtle_shapes.egg-info/SOURCES.txt'
+[1.132s] writing manifest file '../../build/turtle_shapes/turtle_shapes.egg-info/SOURCES.txt'
+[1.133s] running build
+[1.133s] running build_py
+[1.133s] copying turtle_shapes/turtle_movement.py -> /home/parveez/ros2_ws/build/turtle_shapes/build/lib/turtle_shapes
+[1.133s] running install
+[1.133s] running install_lib
+[1.134s] copying /home/parveez/ros2_ws/build/turtle_shapes/build/lib/turtle_shapes/turtle_movement.py -> /home/parveez/ros2_ws/install/turtle_shapes/lib/python3.10/site-packages/turtle_shapes
+[1.135s] byte-compiling /home/parveez/ros2_ws/install/turtle_shapes/lib/python3.10/site-packages/turtle_shapes/turtle_movement.py to turtle_movement.cpython-310.pyc
+[1.136s] running install_data
+[1.137s] running install_egg_info
+[1.139s] removing '/home/parveez/ros2_ws/install/turtle_shapes/lib/python3.10/site-packages/turtle_shapes-0.0.0-py3.10.egg-info' (and everything under it)
+[1.139s] Copying ../../build/turtle_shapes/turtle_shapes.egg-info to /home/parveez/ros2_ws/install/turtle_shapes/lib/python3.10/site-packages/turtle_shapes-0.0.0-py3.10.egg-info
+[1.140s] running install_scripts
+[1.164s] Installing turtle_movement script to /home/parveez/ros2_ws/install/turtle_shapes/lib/turtle_shapes
+[1.165s] writing list of installed files to '/home/parveez/ros2_ws/build/turtle_shapes/install.log'
+[1.194s] Invoked command in '/home/parveez/ros2_ws/src/turtle_shapes' returned '0': PYTHONPATH=/home/parveez/ros2_ws/build/turtle_shapes/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/parveez/ros2_ws/install/turtle_shapes/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/turtle_shapes build --build-base /home/parveez/ros2_ws/build/turtle_shapes/build install --record /home/parveez/ros2_ws/build/turtle_shapes/install.log --single-version-externally-managed install_data

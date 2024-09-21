@@ -1,0 +1,3 @@
+[console_scripts]
+turtle_movement = turtle_shapes.turtle_movement:main
+

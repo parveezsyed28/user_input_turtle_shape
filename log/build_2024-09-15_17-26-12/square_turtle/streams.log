@@ -1,0 +1,24 @@
+[0.597s] Invoking command in '/home/parveez/ros2_ws/src/square_turtle': PYTHONPATH=/home/parveez/ros2_ws/build/square_turtle/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/parveez/ros2_ws/install/square_turtle/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/square_turtle build --build-base /home/parveez/ros2_ws/build/square_turtle/build install --record /home/parveez/ros2_ws/build/square_turtle/install.log --single-version-externally-managed install_data
+[0.841s] running egg_info
+[0.842s] writing ../../build/square_turtle/square_turtle.egg-info/PKG-INFO
+[0.842s] writing dependency_links to ../../build/square_turtle/square_turtle.egg-info/dependency_links.txt
+[0.843s] writing entry points to ../../build/square_turtle/square_turtle.egg-info/entry_points.txt
+[0.843s] writing requirements to ../../build/square_turtle/square_turtle.egg-info/requires.txt
+[0.843s] writing top-level names to ../../build/square_turtle/square_turtle.egg-info/top_level.txt
+[0.845s] reading manifest file '../../build/square_turtle/square_turtle.egg-info/SOURCES.txt'
+[0.845s] writing manifest file '../../build/square_turtle/square_turtle.egg-info/SOURCES.txt'
+[0.846s] running build
+[0.846s] running build_py
+[0.846s] copying square_turtle/move_square.py -> /home/parveez/ros2_ws/build/square_turtle/build/lib/square_turtle
+[0.846s] running install
+[0.846s] running install_lib
+[0.847s] copying /home/parveez/ros2_ws/build/square_turtle/build/lib/square_turtle/move_square.py -> /home/parveez/ros2_ws/install/square_turtle/lib/python3.10/site-packages/square_turtle
+[0.848s] byte-compiling /home/parveez/ros2_ws/install/square_turtle/lib/python3.10/site-packages/square_turtle/move_square.py to move_square.cpython-310.pyc
+[0.848s] running install_data
+[0.848s] running install_egg_info
+[0.850s] removing '/home/parveez/ros2_ws/install/square_turtle/lib/python3.10/site-packages/square_turtle-0.0.0-py3.10.egg-info' (and everything under it)
+[0.850s] Copying ../../build/square_turtle/square_turtle.egg-info to /home/parveez/ros2_ws/install/square_turtle/lib/python3.10/site-packages/square_turtle-0.0.0-py3.10.egg-info
+[0.851s] running install_scripts
+[0.872s] Installing move_square script to /home/parveez/ros2_ws/install/square_turtle/lib/square_turtle
+[0.873s] writing list of installed files to '/home/parveez/ros2_ws/build/square_turtle/install.log'
+[0.894s] Invoked command in '/home/parveez/ros2_ws/src/square_turtle' returned '0': PYTHONPATH=/home/parveez/ros2_ws/build/square_turtle/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/parveez/ros2_ws/install/square_turtle/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/square_turtle build --build-base /home/parveez/ros2_ws/build/square_turtle/build install --record /home/parveez/ros2_ws/build/square_turtle/install.log --single-version-externally-managed install_data
