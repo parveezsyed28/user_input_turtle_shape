@@ -44,3 +44,9 @@ source install/setup.bash
 ##**Launch the turtlesim node:**
 
 ros2 run turtlesim turtlesim_node
+
+##**Run the Turtle Shapes program:**
+
+ros2 run turtle_shapes your_node_name
+
+Follow the prompts to enter a shape for the turtle to draw.
